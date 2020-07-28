@@ -1,3 +1,3 @@
 # Password-Generator
 
-Create a strong password wih characters numbers and other symbols.
+Creates a strong password with characters numbers and other symbols.
